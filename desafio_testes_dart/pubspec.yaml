@@ -1,0 +1,9 @@
+name: desafio_testes_dart
+description: Projeto propositalmente defeituoso para prática de testes em Dart.
+version: 1.0.0
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dev_dependencies:
+  test: ^1.25.8
